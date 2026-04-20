@@ -3,10 +3,10 @@
 This project provides an end-to-end Exploratory Data Analysis (EDA) of hospital operational data. Using Python, I analyzed patient demographics, departmental revenue, and clinical outcomes to identify the primary drivers of hospital charges and patient satisfaction.
 
    📊 Project Highlights
-Revenue Analysis:** Identified Cardiology and General Surgery as the primary revenue drivers.
-Financial Modeling:** Engineered features to calculate `Insurance_Coverage` vs. `Out_of_Pocket` expenses.
-Operational Bottlenecks:** Analyzed the impact of `Admission_Type` (Emergency vs. Elective) on wait times and total charges.
-Satisfaction Drivers:** Used statistical grouping to see if `Staff_to_Patient_Ratio` impacted `Satisfaction_Scores`.
+Revenue Analysis: Identified Cardiology and General Surgery as the primary revenue drivers.
+Financial Modeling: Engineered features to calculate `Insurance_Coverage` vs. `Out_of_Pocket` expenses.
+Operational Bottlenecks: Analyzed the impact of `Admission_Type` (Emergency vs. Elective) on wait times and total charges.
+Satisfaction Drivers: Used statistical grouping to see if `Staff_to_Patient_Ratio` impacted `Satisfaction_Scores`.
 
 
   💻 Key Technical Implementation
